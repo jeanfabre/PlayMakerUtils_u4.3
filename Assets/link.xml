@@ -1,9 +1,0 @@
-<linker>
-  <assembly fullname="UnityEngine">
-    <type fullname="UnityEngine.Camera" preserve="all" />
-    <type fullname="UnityEngine.TextMesh" preserve="all" />
-  </assembly>
-  <assembly fullname="PlayMaker">
-    <type fullname="PlayMakerFSM" preserve="all" />
-  </assembly>
-</linker>
