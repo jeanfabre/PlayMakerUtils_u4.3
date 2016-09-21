@@ -1,5 +1,11 @@
 <linker>
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="LinkerWizardComponentTest" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine">
+    <type fullname="UnityEngine.ParticleEmitter" preserve="all" />
+    <type fullname="UnityEngine.Collider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.TextMesh" preserve="all" />
   </assembly>

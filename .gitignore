@@ -20,7 +20,6 @@ Temp/
 
 /Assets/PlayMaker/
 /Assets/iTween/
-/Assets/Gizmos/
 /Assets/Photon Unity Networking
 /Assets/Photon Unity Networking.meta
 
@@ -33,3 +32,4 @@ EditorGUI Style Viewer.meta
 net.fabrejean.meta
 test.unitypackage
 Builds
+Assets/Plugins
