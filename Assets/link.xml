@@ -12,4 +12,7 @@
   <assembly fullname="PlayMaker">
     <type fullname="PlayMakerFSM" preserve="all" />
   </assembly>
+  <assembly fullname="ConditionalExpression">
+    <type fullname="PlayMaker.ConditionalExpression.ConditionalExpression" preserve="all" />
+  </assembly>
 </linker>
