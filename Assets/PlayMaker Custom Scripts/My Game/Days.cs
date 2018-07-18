@@ -5,8 +5,14 @@
 
 namespace Com.MyGame
 {
-	public enum test
+	public enum Days
 	{
-		assd		
+		Sun,
+		Mon,
+		Tue,
+		Wed,
+		Thu,
+		Fri,
+		Sat		
 	}
 }

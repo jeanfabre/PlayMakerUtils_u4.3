@@ -3,12 +3,13 @@
 // [PLAYMAKER_ENUM]
 // It is recommended to use PlayMaker Enum Creator Wizard to edit this enum definition. But you can perfectly edit this script directly
 
-namespace Net.FabreJean
+namespace Com.MyGame
 {
-	public enum MyEnum
+	public enum GameState
 	{
-		asd,
-		yo,
-		ONE		
+		Waiting,
+		Playing,
+		Paused,
+		Settings		
 	}
 }
